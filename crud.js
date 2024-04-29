@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
           docentes.push(nuevoDocente);
           guardarDocentesEnLocalStorage();
           renderizarDocentes();
-          nombreDocenteInput.value = '';
+            nombreDocenteInput.value = '';
       }
   });
 
